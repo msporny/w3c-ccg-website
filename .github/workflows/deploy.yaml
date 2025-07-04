@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: '22'
 
-    - name: Install dependencies
+    - name: Install 11ty dependencies
       run: npm i
 
     - name: Build site
