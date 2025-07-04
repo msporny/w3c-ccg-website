@@ -1,0 +1,27 @@
+{
+  "name": "w3c-ccg-website",
+  "version": "1.0.0",
+  "description": "Website for the W3C Credentials Community Group",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "keywords": [
+    "w3c",
+    "credentials",
+    "vc",
+    "did",
+    "11ty",
+    "eleventy"
+  ],
+  "author": "W3C Credentials Community Group",
+  "license": "W3C",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.3.5"
+  }
+}
