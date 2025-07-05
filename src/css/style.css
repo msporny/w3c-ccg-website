@@ -287,6 +287,38 @@ body {
     text-decoration: underline;
 }
 
+.image-text-container {
+  display: flex;
+  align-items: flex-start; /* Align items to top */
+  gap: 20px; /* Space between image and text */
+}
+
+.image-text-container img {
+  flex-shrink: 0; /* Prevent image from shrinking */
+  max-width: 300px; /* Set maximum width for image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.image-text-container .text-content {
+  flex: 1; /* Take up remaining space */
+  font-size: 1.25rem;
+  color: #666;
+  margin-bottom: 3rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 768px) {
+  .image-text-container {
+    flex-direction: column; /* Stack vertically on mobile */
+  }
+
+  .image-text-container img {
+    max-width: 100%;
+  }
+}
+
 /* Footer */
 .site-footer {
     background-color: #333;
