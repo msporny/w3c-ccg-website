@@ -38,7 +38,7 @@ framework for creating, issuing, and verifying digital credentials:
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-database"></i><a href="https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/" target="_blank" rel="noopener noreferrer">
 Verifiable Credentials Data Model v2.0
           </a>
         </h3>
@@ -50,7 +50,7 @@ specification for all verifiable credential implementations.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-data-integrity-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-lock"></i><a href="https://www.w3.org/TR/2025/REC-vc-data-integrity-20250515/" target="_blank" rel="noopener noreferrer">
 Verifiable Credential Data Integrity 1.0
           </a>
         </h3>
@@ -62,7 +62,7 @@ cryptographically.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-di-eddsa-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-key"></i><a href="https://www.w3.org/TR/2025/REC-vc-di-eddsa-20250515/" target="_blank" rel="noopener noreferrer">
 Data Integrity EdDSA Cryptosuites v1.0
           </a>
         </h3>
@@ -74,7 +74,7 @@ signatures.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-di-ecdsa-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-key"></i><a href="https://www.w3.org/TR/2025/REC-vc-di-ecdsa-20250515/" target="_blank" rel="noopener noreferrer">
 Data Integrity ECDSA Cryptosuites v1.0
           </a>
         </h3>
@@ -86,7 +86,7 @@ cryptographic protection.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-jose-cose-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-shield-alt"></i><a href="https://www.w3.org/TR/2025/REC-vc-jose-cose-20250515/" target="_blank" rel="noopener noreferrer">
 Securing Verifiable Credentials using JOSE and COSE
           </a>
         </h3>
@@ -98,7 +98,7 @@ and Encryption) formats.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-cid-1.0-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-fingerprint"></i><a href="https://www.w3.org/TR/2025/REC-cid-1.0-20250515/" target="_blank" rel="noopener noreferrer">
 Controlled Identifiers v1.0
           </a>
         </h3>
@@ -109,7 +109,7 @@ their owners, providing the foundation for decentralized identity systems.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/2025/REC-vc-bitstring-status-list-20250515/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-list-ul"></i><a href="https://www.w3.org/TR/2025/REC-vc-bitstring-status-list-20250515/" target="_blank" rel="noopener noreferrer">
 Bitstring Status List v1.0
           </a>
         </h3>
@@ -132,7 +132,7 @@ identity systems that don't rely on centralized authorities:
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/did/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-network-wired"></i><a href="https://www.w3.org/TR/did/" target="_blank" rel="noopener noreferrer">
 Decentralized Identifiers (DIDs) v1.0
           </a>
         </h3>
@@ -145,7 +145,7 @@ created and controlled without centralized authorities.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://www.w3.org/TR/did-use-cases/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-clipboard-list"></i><a href="https://www.w3.org/TR/did-use-cases/" target="_blank" rel="noopener noreferrer">
 Use Cases and Requirements for Decentralized Identifiers
           </a>
         </h3>
@@ -166,7 +166,7 @@ in real-world applications.
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="https://www.rfc-editor.org/rfc/rfc9421.html" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-signature"></i><a href="https://www.rfc-editor.org/rfc/rfc9421.html" target="_blank" rel="noopener noreferrer">
 IETF HTTP Message Signatures
           </a>
         </h3>

@@ -33,7 +33,7 @@ without compromising privacy.
     <h2 class="section-title">Common Use Cases</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Digital Wallets</h3>
+        <h3><i class="fas fa-wallet"></i>Digital Wallets</h3>
         <p>
 Secure digital wallet integration that allows customers to store and use
 verifiable credentials for payments, identification, and service access
@@ -41,7 +41,7 @@ without exposing sensitive financial or personal information.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Age Verification</h3>
+        <h3><i class="fas fa-user-check"></i>Age Verification</h3>
         <p>
 Verify age requirements for restricted products like alcohol or tobacco
 without revealing exact birth date or other personal details. Complies with
@@ -49,7 +49,7 @@ regulations while protecting customer privacy.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Membership Cards</h3>
+        <h3><i class="fas fa-id-card"></i>Membership Cards</h3>
         <p>
 Digital membership credentials for warehouse clubs, gyms, or specialty
 retailers that provide access to member pricing and services without
@@ -57,7 +57,7 @@ carrying physical cards or sharing detailed personal information.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Digital Receipts</h3>
+        <h3><i class="fas fa-receipt"></i>Digital Receipts</h3>
         <p>
 Cryptographically signed digital receipts that serve as verifiable proof of
 purchase for warranty claims, returns, and expense reporting while
@@ -65,7 +65,7 @@ maintaining customer privacy and reducing paper waste.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Product Authentication</h3>
+        <h3><i class="fas fa-shield-alt"></i>Product Authentication</h3>
         <p>
 Verify the authenticity of luxury goods, electronics, or other high-value
 products through digital certificates that prove origin, warranty status,
@@ -73,7 +73,7 @@ and ownership history.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Customer Preferences</h3>
+        <h3><i class="fas fa-user-cog"></i>Customer Preferences</h3>
         <p>
 Securely store and share customer preferences, dietary restrictions, or
 accessibility needs across retail locations while maintaining full control
@@ -146,14 +146,14 @@ digital processes through verifiable digital receipts and credentials
     <h2 class="section-title">Industry Applications</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Grocery and Convenience</h3>
+        <h3><i class="fas fa-shopping-basket"></i>Grocery and Convenience</h3>
         <p>
 Age verification for restricted items, digital receipts for returns, and
 membership cards for warehouse clubs that work across store locations.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Fashion and Luxury</h3>
+        <h3><i class="fas fa-gem"></i>Fashion and Luxury</h3>
         <p>
 Product authenticity certificates, digital receipts for high-value
 purchases, and VIP membership credentials that enhance the luxury shopping
@@ -161,14 +161,14 @@ experience.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Electronics and Technology</h3>
+        <h3><i class="fas fa-microchip"></i>Electronics and Technology</h3>
         <p>
 Warranty verification, certified refurbished status, and digital proof of
 purchase for technology products and services.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Entertainment and Events</h3>
+        <h3><i class="fas fa-ticket-alt"></i>Entertainment and Events</h3>
         <p>
 Digital tickets, digital receipts for merchandise, and age verification for
 concerts, movies, and sporting events that prevent fraud and scalping.

@@ -31,7 +31,7 @@ these important standards.
     </p>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Weekly Meetings</h3>
+        <h3><i class="fas fa-calendar-alt"></i>Weekly Meetings</h3>
         <p>
 Join our regular Tuesday meetings at 12:00 PM ET to discuss current work,
 review specifications, and collaborate on new initiatives.
@@ -44,7 +44,7 @@ review specifications, and collaborate on new initiatives.
 Meeting Details</a>
       </div>
       <div class="feature-card">
-        <h3>Mailing List</h3>
+        <h3><i class="fas fa-envelope"></i>Mailing List</h3>
         <p>
 Stay updated on community discussions, meeting announcements, and
 specification developments through our public mailing list.
@@ -58,7 +58,7 @@ Join Mailing List
         </a>
       </div>
       <div class="feature-card">
-        <h3>Code Collaboration</h3>
+        <h3><i class="fab fa-github"></i>Code Collaboration</h3>
         <p>
 Contribute to specifications, report issues, and collaborate on
 implementation examples through our GitHub organization.
@@ -85,21 +85,21 @@ without compromising personal data or relying on centralized authorities.
     </p>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Decentralization</h3>
+        <h3><i class="fas fa-network-wired"></i>Decentralization</h3>
         <p>
 We promote decentralized identity solutions that reduce reliance on
 centralized authorities and single points of failure.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Privacy By Design</h3>
+        <h3><i class="fas fa-shield-alt"></i>Privacy By Design</h3>
         <p>
 Our specifications prioritize privacy and data protection, giving individuals
 and organizations control over their private information.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Interoperability</h3>
+        <h3><i class="fas fa-puzzle-piece"></i>Interoperability</h3>
         <p>
 We develop standards that work across different platforms, vendors, and
 ecosystems, ensuring credentials can be used anywhere they're needed.
@@ -145,7 +145,7 @@ form the foundation of the verifiable credentials ecosystem.
     </p>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Verifiable Credentials</h3>
+        <h3><i class="fas fa-certificate"></i>Verifiable Credentials</h3>
         <p>
 Digital credentials that are cryptographically secure, privacy-respecting,
 and machine-verifiable. These include educational certificates, professional
@@ -153,7 +153,7 @@ licenses, and identity documents.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Decentralized Identifiers</h3>
+        <h3><i class="fas fa-fingerprint"></i>Decentralized Identifiers</h3>
         <p>
 A new type of identifier that enables verifiable, decentralized decentralized
 identity. DIDs are created, owned, and controlled by individuals without
@@ -161,28 +161,28 @@ relying on centralized authorities.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Credential Protocols</h3>
+        <h3><i class="fas fa-exchange-alt"></i>Credential Protocols</h3>
         <p>
 Secure ways to present and share verifiable credentials, allowing users to
 prove specific claims about themselves while maintaining privacy.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Digital Wallets</h3>
+        <h3><i class="fas fa-wallet"></i>Digital Wallets</h3>
         <p>
 Secure storage and management solutions for verifiable credentials, enabling
 users to control their decentralized identity and credentials.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Credential Vocabularies</h3>
+        <h3><i class="fas fa-book"></i>Credential Vocabularies</h3>
         <p>
 Standardized data models and vocabularies for different types of credentials,
 ensuring consistency and interoperability across implementations.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Privacy-Enabling Crypto</h3>
+        <h3><i class="fas fa-lock"></i>Privacy-Enabling Crypto</h3>
         <p>
 Advanced cryptographic techniques that enable privacy-preserving
 verification, allowing users to prove claims without revealing unnecessary

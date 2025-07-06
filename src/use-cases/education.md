@@ -33,7 +33,7 @@ that are instantly verifiable by employers and other educational institutions.
     <h2 class="section-title">Common Use Cases</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>University Degrees</h3>
+        <h3><i class="fas fa-graduation-cap"></i>University Degrees</h3>
         <p>
 Digital diplomas and degree certificates that can be verified instantly by
 employers without contacting the issuing institution. Prevents degree fraud
@@ -41,7 +41,7 @@ and speeds up hiring processes.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Professional Certifications</h3>
+        <h3><i class="fas fa-certificate"></i>Professional Certifications</h3>
         <p>
 Industry certifications from organizations like CompTIA, Cisco, or Microsoft
 that professionals can share with employers while maintaining control over
@@ -49,7 +49,7 @@ their certification records.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Continuing Education</h3>
+        <h3><i class="fas fa-book"></i>Continuing Education</h3>
         <p>
 Credits and certificates from continuing education programs, workshops, and
 professional development courses that can be aggregated across multiple
@@ -57,7 +57,7 @@ providers and institutions.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Online Course Completion</h3>
+        <h3><i class="fas fa-laptop"></i>Online Course Completion</h3>
         <p>
 Certificates from online learning platforms and MOOCs that can be verified
 and combined with formal education credentials to create comprehensive
@@ -65,7 +65,7 @@ learning portfolios.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Skills and Competencies</h3>
+        <h3><i class="fas fa-star"></i>Skills and Competencies</h3>
         <p>
 Micro-credentials and digital badges that represent specific skills,
 competencies, or achievements that can be verified and shared with potential
@@ -73,7 +73,7 @@ employers or educational institutions.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Academic Transcripts</h3>
+        <h3><i class="fas fa-scroll"></i>Academic Transcripts</h3>
         <p>
 Secure digital transcripts that students can share with other institutions
 for transfers or graduate school applications without waiting for official

@@ -34,7 +34,7 @@ regulatory compliance.
     <h2 class="section-title">Common Use Cases</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Medical Records</h3>
+        <h3><i class="fas fa-file-medical"></i>Medical Records</h3>
         <p>
 Secure digital health records that patients can share with healthcare
 providers while maintaining control over who accesses their medical
@@ -42,7 +42,7 @@ information and for what purposes.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Professional Licensing</h3>
+        <h3><i class="fas fa-user-md"></i>Professional Licensing</h3>
         <p>
 Digital licenses for healthcare professionals including doctors, nurses, and
 specialists that can be verified instantly by employers, hospitals, and
@@ -50,7 +50,7 @@ regulatory bodies without contacting licensing boards.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Vital Records</h3>
+        <h3><i class="fas fa-heartbeat"></i>Vital Records</h3>
         <p>
 Digital versions of birth certificates, death certificates, and marriage
 certificates that can be verified instantly for healthcare enrollment,
@@ -58,7 +58,7 @@ insurance claims, and family medical history documentation.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Vaccination Records</h3>
+        <h3><i class="fas fa-syringe"></i>Vaccination Records</h3>
         <p>
 Verifiable immunization credentials that enable travel, school enrollment,
 and workplace compliance while protecting personal health information and
@@ -66,7 +66,7 @@ preventing fraud.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Lab Test Results</h3>
+        <h3><i class="fas fa-vial"></i>Lab Test Results</h3>
         <p>
 Cryptographically signed laboratory test results that patients can share
 with healthcare providers while ensuring the authenticity and integrity of
@@ -74,7 +74,7 @@ medical test data.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Insurance Verification</h3>
+        <h3><i class="fas fa-shield-alt"></i>Insurance Verification</h3>
         <p>
 Digital insurance credentials that enable real-time verification of coverage
 and benefits without exposing sensitive personal health information to
@@ -174,14 +174,14 @@ sharing can be documented and verified through credential-based systems
     <h2 class="section-title">Industry Applications</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Hospitals and Health Systems</h3>
+        <h3><i class="fas fa-hospital"></i>Hospitals and Health Systems</h3>
         <p>
 Secure patient record sharing between departments and affiliated healthcare
 facilities while maintaining privacy and regulatory compliance.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Vital Records Offices</h3>
+        <h3><i class="fas fa-building"></i>Vital Records Offices</h3>
         <p>
 Digital issuance and verification of birth certificates, death certificates,
 and marriage certificates for healthcare enrollment and family history
@@ -189,14 +189,14 @@ documentation.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Telemedicine</h3>
+        <h3><i class="fas fa-video"></i>Telemedicine</h3>
         <p>
 Verify patient identity and medical history for remote consultations while
 ensuring secure transmission of health information.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Medical Research</h3>
+        <h3><i class="fas fa-microscope"></i>Medical Research</h3>
         <p>
 Secure sharing of research data and patient consent while maintaining
 participant privacy and study integrity.

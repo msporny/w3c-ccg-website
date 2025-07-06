@@ -34,7 +34,7 @@ based on community feedback and implementation experience.
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vc-barcodes/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-qrcode"></i><a href="https://w3c-ccg.github.io/vc-barcodes/" target="_blank" rel="noopener noreferrer">
 Verifiable Credential Barcodes
           </a>
         </h3>
@@ -46,7 +46,7 @@ barcode scanning infrastructure.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://json-ld.github.io/cbor-ld-spec/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-compress"></i><a href="https://json-ld.github.io/cbor-ld-spec/" target="_blank" rel="noopener noreferrer">
 CBOR-LD
           </a>
         </h3>
@@ -58,7 +58,7 @@ developed by the JSON-LD Working Group.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vc-render-method/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-palette"></i><a href="https://w3c-ccg.github.io/vc-render-method/" target="_blank" rel="noopener noreferrer">
 Verifiable Credential Rendering Method
           </a>
         </h3>
@@ -70,7 +70,7 @@ credential display.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vc-confidence-method/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-chart-line"></i><a href="https://w3c-ccg.github.io/vc-confidence-method/" target="_blank" rel="noopener noreferrer">
 Confidence Method
           </a>
         </h3>
@@ -82,7 +82,7 @@ credential claims.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/di-quantum-safe/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-atom"></i><a href="https://w3c-ccg.github.io/di-quantum-safe/" target="_blank" rel="noopener noreferrer">
 Quantum-Safe Cryptosuites
           </a>
         </h3>
@@ -94,7 +94,7 @@ world.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vc-api/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-code"></i><a href="https://w3c-ccg.github.io/vc-api/" target="_blank" rel="noopener noreferrer">
 VC API
           </a>
         </h3>
@@ -106,7 +106,7 @@ operations.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vp-request-spec/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-hand-paper"></i><a href="https://w3c-ccg.github.io/vp-request-spec/" target="_blank" rel="noopener noreferrer">
 Verifiable Presentation Request
           </a>
         </h3>
@@ -118,7 +118,7 @@ credential presentation workflows.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/verifiable-issuers-verifiers/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-users-cog"></i><a href="https://w3c-ccg.github.io/verifiable-issuers-verifiers/" target="_blank" rel="noopener noreferrer">
 Verifiable Issuers and Verifiers
           </a>
         </h3>
@@ -130,7 +130,7 @@ chains.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://digitalbazaar.github.io/vc-wireless/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-wifi"></i><a href="https://digitalbazaar.github.io/vc-wireless/" target="_blank" rel="noopener noreferrer">
 Verifiable Credentials Over Wireless
           </a>
         </h3>
@@ -142,7 +142,7 @@ credential sharing.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/vc-refresh-2021/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-sync-alt"></i><a href="https://w3c-ccg.github.io/vc-refresh-2021/" target="_blank" rel="noopener noreferrer">
 Credential Refresh
           </a>
         </h3>
@@ -154,7 +154,7 @@ without manual reissuance.
       </div>
       <div class="feature-card">
         <h3>
-          <a href="https://w3c-ccg.github.io/zcap-spec/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-unlock-alt"></i><a href="https://w3c-ccg.github.io/zcap-spec/" target="_blank" rel="noopener noreferrer">
 Authorization Capabilities (ZCAPs)
           </a>
         </h3>

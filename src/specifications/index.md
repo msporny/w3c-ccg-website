@@ -28,7 +28,7 @@ incubated here for future standardization.
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/specifications/standards/">Global Standards</a>
+          <i class="fas fa-globe"></i><a href="{{basedir}}/specifications/standards/">Global Standards</a>
         </h3>
         <p>
 Official standards published by W3C, IETF, and other global standards
@@ -48,7 +48,7 @@ View Global Standards
       </div>
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/specifications/incubation/">Incubation Work</a>
+          <i class="fas fa-flask"></i><a href="{{basedir}}/specifications/incubation/">Incubation Work</a>
         </h3>
         <p>
 Emerging specifications currently being developed and tested by the W3C
@@ -107,7 +107,7 @@ worldwide, providing stable foundations for production systems
     <h2 class="section-title">Getting Started</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>For Implementers</h3>
+        <h3><i class="fas fa-code"></i>For Implementers</h3>
         <p>
 Start with the <a href="{{basedir}}/specifications/standards/">Global Standards</a> for production implementations. These
 specifications have been thoroughly tested and are supported by multiple
@@ -115,7 +115,7 @@ interoperable implementations across different platforms and vendors.
         </p>
       </div>
       <div class="feature-card">
-        <h3>For Researchers and Innovators</h3>
+        <h3><i class="fas fa-lightbulb"></i>For Researchers and Innovators</h3>
         <p>
 Explore the <a href="{{basedir}}/specifications/incubation/">Incubation Work</a> to discover cutting-edge features and contribute
 to the development of next-generation verifiable credential technologies
@@ -123,7 +123,7 @@ that may become tomorrow's standards.
         </p>
       </div>
       <div class="feature-card">
-        <h3>For Standards Contributors</h3>
+        <h3><i class="fas fa-users"></i>For Standards Contributors</h3>
         <p>
 Join the <a href="https://www.w3.org/community/credentials/" target="_blank" rel="noopener noreferrer">W3C Credentials Community Group</a> to participate in the incubation
 process and help shape the future of digital credentials through

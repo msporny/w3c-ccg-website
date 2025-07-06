@@ -36,7 +36,7 @@ authorities.
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/use-cases/identification/">Identification Documents</a>
+          <i class="fas fa-id-card"></i><a href="{{basedir}}/use-cases/identification/">Identification Documents</a>
         </h3>
         <p>
 Digital identity documents like driver's licenses, passports, and government
@@ -49,7 +49,7 @@ Learn More
       </div>
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/use-cases/education/">Education</a>
+          <i class="fas fa-graduation-cap"></i><a href="{{basedir}}/use-cases/education/">Education</a>
         </h3>
         <p>
 Academic credentials, certificates, and professional certifications that
@@ -62,7 +62,7 @@ Learn More
       </div>
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/use-cases/retail/">Retail</a>
+          <i class="fas fa-shopping-cart"></i><a href="{{basedir}}/use-cases/retail/">Retail</a>
         </h3>
         <p>
 Customer loyalty programs, age verification, and membership credentials that
@@ -75,7 +75,7 @@ Learn More
       </div>
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/use-cases/trade/">Trade</a>
+          <i class="fas fa-shipping-fast"></i><a href="{{basedir}}/use-cases/trade/">Trade</a>
         </h3>
         <p>
 Supply chain transparency, product authenticity, and trade documentation
@@ -88,7 +88,7 @@ Learn More
       </div>
       <div class="feature-card">
         <h3>
-          <a href="{{basedir}}/use-cases/healthcare/">Healthcare</a>
+          <i class="fas fa-user-md"></i><a href="{{basedir}}/use-cases/healthcare/">Healthcare</a>
         </h3>
         <p>
 Medical records, professional licenses, and health certifications that
@@ -108,42 +108,42 @@ Learn More
     <h2 class="section-title">Benefits Across Industries</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Enhanced Security</h3>
+        <h3><i class="fas fa-shield-alt"></i>Enhanced Security</h3>
         <p>
 Cryptographic protection prevents forgery and tampering while enabling
 cryptographic verification of credential authenticity.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Privacy Protection</h3>
+        <h3><i class="fas fa-user-shield"></i>Privacy Protection</h3>
         <p>
 Selective disclosure allows sharing only necessary information while
 keeping sensitive data private and under user control.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Interoperability</h3>
+        <h3><i class="fas fa-link"></i>Interoperability</h3>
         <p>
 Standards-based credentials work across different platforms, systems, and
 organizations without vendor lock-in or compatibility issues.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Reduced Costs</h3>
+        <h3><i class="fas fa-dollar-sign"></i>Reduced Costs</h3>
         <p>
 Automated verification reduces manual processes, administrative overhead,
 and the need for intermediaries in credential verification.
         </p>
       </div>
       <div class="feature-card">
-        <h3>User Control</h3>
+        <h3><i class="fas fa-user-cog"></i>User Control</h3>
         <p>
 Individuals maintain control over their credentials and personal data,
 deciding when and how to share information with others.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Fraud Prevention</h3>
+        <h3><i class="fas fa-ban"></i>Fraud Prevention</h3>
         <p>
 Cryptographic verification and immutable records make it extremely difficult
 to forge or falsify credentials and claims.

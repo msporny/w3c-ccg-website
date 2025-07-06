@@ -33,7 +33,7 @@ and consumers make informed decisions while reducing fraud and counterfeiting.
     <h2 class="section-title">Common Use Cases</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Supply Chain Transparency</h3>
+        <h3><i class="fas fa-link"></i>Supply Chain Transparency</h3>
         <p>
 Track products from origin to consumer with verifiable credentials that
 document each step in the supply chain, including manufacturing, quality
@@ -41,7 +41,7 @@ testing, and transportation milestones.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Product Authenticity</h3>
+        <h3><i class="fas fa-shield-alt"></i>Product Authenticity</h3>
         <p>
 Verify the authenticity of goods through digital certificates that prove
 origin, manufacturing standards, and compliance with quality regulations,
@@ -49,7 +49,7 @@ reducing counterfeiting and fraud.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Trade Documentation</h3>
+        <h3><i class="fas fa-file-alt"></i>Trade Documentation</h3>
         <p>
 Digital trade documents including bills of lading, certificates of origin,
 and customs declarations that can be verified instantly by trading partners
@@ -57,7 +57,7 @@ and regulatory authorities.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Sustainability Certificates</h3>
+        <h3><i class="fas fa-leaf"></i>Sustainability Certificates</h3>
         <p>
 Verifiable credentials that document sustainable practices, fair trade
 compliance, and environmental certifications throughout the supply chain to
@@ -65,7 +65,7 @@ support responsible consumption.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Quality Assurance</h3>
+        <h3><i class="fas fa-check-circle"></i>Quality Assurance</h3>
         <p>
 Digital certificates that verify quality testing results, safety
 inspections, and compliance with industry standards from certified testing
@@ -73,7 +73,7 @@ laboratories and inspection agencies.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Customs and Compliance</h3>
+        <h3><i class="fas fa-gavel"></i>Customs and Compliance</h3>
         <p>
 Streamlined customs processing through verifiable trade credentials that
 prove compliance with import/export regulations, reducing delays and
@@ -146,7 +146,7 @@ case of recalls through precise supply chain tracking
     <h2 class="section-title">Industry Applications</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Food and Agriculture</h3>
+        <h3><i class="fas fa-apple-alt"></i>Food and Agriculture</h3>
         <p>
 Track food products from farm to table with verifiable credentials
 documenting organic certification, safety inspections, and transportation
@@ -154,21 +154,21 @@ conditions.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Pharmaceuticals</h3>
+        <h3><i class="fas fa-pills"></i>Pharmaceuticals</h3>
         <p>
 Ensure drug authenticity and safety through verifiable manufacturing
 records, quality testing results, and cold chain documentation.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Textiles and Apparel</h3>
+        <h3><i class="fas fa-tshirt"></i>Textiles and Apparel</h3>
         <p>
 Verify fair trade practices, sustainable materials, and manufacturing
 conditions in the global textile supply chain.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Electronics</h3>
+        <h3><i class="fas fa-microchip"></i>Electronics</h3>
         <p>
 Document component authenticity, conflict mineral compliance, and
 environmental certifications for electronic products.

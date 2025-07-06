@@ -32,7 +32,7 @@ level of trust while offering enhanced privacy and security.
     <h2 class="section-title">Common Use Cases</h2>
     <div class="feature-grid">
       <div class="feature-card">
-        <h3>Digital Driver's License</h3>
+        <h3><i class="fas fa-id-card"></i>Digital Driver's License</h3>
         <p>
 State-issued digital driver's licenses that can be verified instantly
 without revealing unnecessary personal information. Users can prove they're
@@ -40,7 +40,7 @@ licensed to drive without sharing their address or date of birth.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Digital Passports</h3>
+        <h3><i class="fas fa-passport"></i>Digital Passports</h3>
         <p>
 Secure digital travel documents that enable faster border crossings while
 maintaining the same security standards as physical passports. Reduces
@@ -48,7 +48,7 @@ identity theft and document fraud.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Employee ID Cards</h3>
+        <h3><i class="fas fa-id-badge"></i>Employee ID Cards</h3>
         <p>
 Digital employee identification that provides secure access to workplace
 facilities, systems, and resources while protecting employee privacy and
@@ -56,7 +56,7 @@ enabling seamless integration with security systems.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Age Verification</h3>
+        <h3><i class="fas fa-user-check"></i>Age Verification</h3>
         <p>
 Prove age requirements for purchases, services, or venue access without
 revealing exact birth date or other personal information. Maintains privacy
@@ -64,7 +64,7 @@ while ensuring compliance.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Professional Licenses</h3>
+        <h3><i class="fas fa-certificate"></i>Professional Licenses</h3>
         <p>
 Digital licenses for professionals like doctors, lawyers, and engineers that
 can be verified instantly by employers, clients, or regulatory bodies
@@ -72,7 +72,7 @@ without contacting licensing agencies.
         </p>
       </div>
       <div class="feature-card">
-        <h3>Student ID Cards</h3>
+        <h3><i class="fas fa-graduation-cap"></i>Student ID Cards</h3>
         <p>
 Digital student identification that provides access to campus facilities,
 library resources, and student discounts while protecting student privacy
