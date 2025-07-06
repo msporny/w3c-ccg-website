@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+basedir: .
 title: "Home"
 description: "The W3C Credentials Community Group incubates specifications for decentralized identity and digital credentials."
 ---

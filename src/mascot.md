@@ -1,5 +1,6 @@
 ---
-layout: subdir.njk
+layout: base.njk
+basedir: ..
 title: "Privvy the Pangolin"
 description: "Meet Privvy the Pangolin, the W3C Credentials Community Group's loveable, privacy-preserving mascot."
 ---
