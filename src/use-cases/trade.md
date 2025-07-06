@@ -180,21 +180,26 @@ environmental certifications for electronic products.
 
 <section class="content-section">
   <div class="container">
-    <h2 class="section-title">Implementation Examples</h2>
+    <h2 class="section-title">Standards and Implementation</h2>
     <p>
 Organizations across industries are implementing verifiable credential
-systems for trade and supply chain applications:
+systems for trade and supply chain applications using established standards:
     </p>
     <ul>
+      <li>
+<strong>UN Transparency Protocol (UNTP)</strong> - United Nations initiative
+to enhance supply chain transparency and combat greenwashing using digital
+verification technologies including verifiable credentials
+      </li>
+      <li>
+<strong>US Customs and Border Protection</strong> - Government agency
+exploring digital trade documents using verifiable credentials to streamline
+border processing and improve security
+      </li>
       <li>
 <strong>Trade Associations</strong> - Industry groups are developing
 verifiable credential standards for supply chain transparency and product
 authentication
-      </li>
-      <li>
-<strong>Customs Authorities</strong> - Government agencies are exploring
-digital trade documents using verifiable credentials to streamline border
-processing
       </li>
       <li>
 <strong>Certification Bodies</strong> - Organizations issuing quality,
