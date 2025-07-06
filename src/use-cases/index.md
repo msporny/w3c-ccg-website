@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-basedir: ../..
+basedir: ..
 title: "Use Cases"
 description: "Explore real-world applications of verifiable credentials and decentralized identity across different industries and sectors."
 ---
