@@ -36,66 +36,66 @@ authorities.
     <div class="feature-grid">
       <div class="feature-card">
         <h3>
-          <a href="/use-cases/identification/">Identification Documents</a>
+          <a href="{{basedir}}/use-cases/identification/">Identification Documents</a>
         </h3>
         <p>
 Digital identity documents like driver's licenses, passports, and government
 IDs that provide secure, verifiable proof of identity while protecting
 personal privacy and reducing identity theft.
         </p>
-        <a href="/use-cases/identification/" class="btn btn-primary">
+        <a href="{{basedir}}/use-cases/identification/" class="btn btn-primary">
 Learn More
         </a>
       </div>
       <div class="feature-card">
         <h3>
-          <a href="/use-cases/education/">Education</a>
+          <a href="{{basedir}}/use-cases/education/">Education</a>
         </h3>
         <p>
 Academic credentials, certificates, and professional certifications that
 enable secure sharing of educational achievements across institutions and
 employers while preventing credential fraud.
         </p>
-        <a href="/use-cases/education/" class="btn btn-primary">
+        <a href="{{basedir}}/use-cases/education/" class="btn btn-primary">
 Learn More
         </a>
       </div>
       <div class="feature-card">
         <h3>
-          <a href="/use-cases/retail/">Retail</a>
+          <a href="{{basedir}}/use-cases/retail/">Retail</a>
         </h3>
         <p>
 Customer loyalty programs, age verification, and membership credentials that
 enhance shopping experiences while protecting customer privacy and enabling
 seamless cross-platform interactions.
         </p>
-        <a href="/use-cases/retail/" class="btn btn-primary">
+        <a href="{{basedir}}/use-cases/retail/" class="btn btn-primary">
 Learn More
         </a>
       </div>
       <div class="feature-card">
         <h3>
-          <a href="/use-cases/trade/">Trade</a>
+          <a href="{{basedir}}/use-cases/trade/">Trade</a>
         </h3>
         <p>
 Supply chain transparency, product authenticity, and trade documentation
 that enable trusted commerce while reducing fraud and improving efficiency
 in global trade networks.
         </p>
-        <a href="/use-cases/trade/" class="btn btn-primary">
+        <a href="{{basedir}}/use-cases/trade/" class="btn btn-primary">
 Learn More
         </a>
       </div>
       <div class="feature-card">
         <h3>
-          <a href="/use-cases/healthcare/">Healthcare</a>
+          <a href="{{basedir}}/use-cases/healthcare/">Healthcare</a>
         </h3>
         <p>
 Medical records, professional licenses, and health certifications that
 enable secure sharing of health information while maintaining patient
 privacy and regulatory compliance.
         </p>
-        <a href="/use-cases/healthcare/" class="btn btn-primary">
+        <a href="{{basedir}}/use-cases/healthcare/" class="btn btn-primary">
 Learn More
         </a>
       </div>
