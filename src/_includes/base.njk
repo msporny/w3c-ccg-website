@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if title %}{{ title }} | {% endif %}W3C Credentials Community Group</title>
     <meta name="description" content="{% if description %}{{ description }}{% else %}The W3C Credentials Community Group develops interoperable standards for verifiable credentials and digital identity.{% endif %}">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="{{basedir}}/css/style.css">
     <link rel="icon" type="image/png" href="https://www.w3.org/assets/logos/w3c/favicon-32.png"/>
 </head>
 <body>
@@ -23,7 +23,17 @@
                         <span class="hamburger"></span>
                     </button>
                     <ul class="nav-menu">
-                        <li><a href="/">Home</a></li>
+                        <li class="dropdown">
+                            <a href="{{basedir}}/use-cases/" aria-haspopup="true">Use Cases</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{basedir}}/use-cases/identification/">Identification</a></li>
+                                <li><a href="{{basedir}}/use-cases/education/">Education</a></li>
+                                <li><a href="{{basedir}}/use-cases/retail/">Retail</a></li>
+                                <li><a href="{{basedir}}/use-cases/trade/">Trade</a></li>
+                                <li><a href="{{basedir}}/use-cases/healthcare/">Healthcare</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="{{basedir}}/">Home</a></li>
                         <!--li class="dropdown">
                             <a href="/specifications/" aria-haspopup="true">Specifications</a>
                             <ul class="dropdown-menu">
@@ -76,6 +86,6 @@
         </div>
     </footer>
 
-    <script src="./js/main.js"></script>
+    <script src="{{basedir}}/js/main.js"></script>
 </body>
 </html>
