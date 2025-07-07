@@ -33,8 +33,9 @@ these important standards.
       <div class="feature-card">
         <h3><i class="fas fa-calendar-alt"></i>Weekly Meetings</h3>
         <p>
-Join our regular Tuesday meetings at 12:00 PM ET to discuss current work,
-review specifications, and collaborate on new initiatives.
+Join our regular Tuesday meetings at 12:00 PM ET / 6:00 PM CET / 9:00 AM PT
+to discuss current work, review specifications, and collaborate on new
+initiatives.
         </p>
         <p>
 <strong>Meeting Link:</strong>
