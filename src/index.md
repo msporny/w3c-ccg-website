@@ -43,6 +43,8 @@ initiatives.
         </p>
 <a href="https://www.w3.org/events/meetings/da13eef-820e-4cc5-b28f-f5c79f06052d/#next" class="btn btn-primary">
 Meeting Details</a>
+<br/><a href="https://www.w3.org/Search/Mail/Public/search?subject=%5BMINUTES%5D&lists=public-credentials" class="btn btn-primary">
+Search for Minutes</a>
       </div>
       <div class="feature-card">
         <h3><i class="fas fa-envelope"></i>Mailing List</h3>
