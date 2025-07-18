@@ -15,6 +15,12 @@ body {
     background-color: #fff;
 }
 
+/* Global anchor styles */
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
