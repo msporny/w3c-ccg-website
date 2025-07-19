@@ -42,7 +42,7 @@ initiatives.
 <strong>Meeting Link:</strong>
 <a href="https://meet.google.com/dzc-yjfq-tyf" target="_blank" rel="noopener noreferrer">Join Meeting</a>
         </p>
-<a href="https://www.w3.org/events/meetings/da13eef-820e-4cc5-b28f-f5c79f06052d/#next" class="btn btn-primary">
+<a href="https://www.w3.org/events/meetings/dda13eef-820e-4cc5-b28f-f5c79f06052d/#next" class="btn btn-primary">
 Meeting Details</a>
       </div>
       <div class="feature-card">
